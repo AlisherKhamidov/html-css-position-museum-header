@@ -5,7 +5,31 @@ main {
 /* твой код */
 
 
+a {
+margin: 10px;
+font-weight: 500;
+font-family: NarrowNews;
+font-size: large;
 
+}
+
+a:hover {
+color: white;
+}
+
+.navbar {
+  background-color: rgb(102,102,102);
+  position: fixed;
+  color: white;
+  margin: 10px;
+}
+
+.navbar:hover {
+  background-color: black;
+  color: rgb(102,102,102);
+  padding: 10px;
+  margin: 0;
+}
 
 
 
