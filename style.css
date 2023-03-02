@@ -1,12 +1,20 @@
 main {
-  height: 200vh;
+  height: 500vh;
+}
+.navItem {
+  font-family: NarrowNews;
+  font-size: 25px;
+  text-decoration: underline;
+  margin: 0px;
+  border: 0px;
+  padding: 10px 40px;
 }
 
-/* твой код */
-
-
-
-
+.navbar {
+  background-color: rgb(102,102,102);
+  color: white;
+  padding: 15px
+}
 
 
 @font-face {
