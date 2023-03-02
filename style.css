@@ -1,8 +1,12 @@
 main {
   height: 200vh;
 }
-
-/* твой код */
+.navbar {
+  background-color: rgb(102,102,102);
+  margin: 7px;
+  padding: 7px;
+  border-radius: 40px;
+}
 
 
 
@@ -14,4 +18,5 @@ main {
   src: url("./fonts/ClanOT-NarrowNews.ttf") format("truetype"); 
   font-style: normal; 
   font-weight: normal; 
+
   } 
