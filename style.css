@@ -21,7 +21,7 @@ main {
  .nav_el:hover {
   color: white;
   cursor: pointer;
-  font-family:"NarrowNews";
+  font-family: NarrowNews;
   text-decoration: underline;
  }
 
