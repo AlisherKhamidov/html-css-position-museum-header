@@ -3,12 +3,23 @@ main {
 }
 
 /* твой код */
-
-
-
-
-
-
+.navbar {
+  background-color: rgb(102,102,102);
+  padding: 10px;
+  margin: 0px;
+}
+.navbar a {
+  color: #fff;
+  font-family: NarrowNews;
+  list-style-type: none;
+  padding: 0px;
+  margin: 30px;
+}
+  .navbar li {
+    display: inline;
+  }
+  
+  
 @font-face {
   font-family: "NarrowNews"; 
   src: url("./fonts/ClanOT-NarrowNews.ttf") format("truetype"); 
