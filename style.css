@@ -4,21 +4,31 @@ main {
 
 /* твой код */
 .navbar {
-  background-color: rgb(102,102,102);
   padding: 10px;
   margin: 0px;
   position: sticky;
   top: 10px;
+  background-color:#fff;
 }
 .navbar a {
-  color: #fff;
+  color:black;
   font-family: NarrowNews;
-  list-style-type: none;
+  font-size: large;
   padding: 0px;
   margin: 30px;
+  
 }
   .navbar li {
     display: inline;
+  }
+  .navbar a:hover {
+    color: #fff;
+  }
+  .navbar:hover {
+    background-color: rgb(102,102,102); 
+  }
+  .banner {
+    margin: 20px;
   }
   
   
