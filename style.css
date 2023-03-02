@@ -10,7 +10,6 @@ margin: 10px;
 font-weight: 500;
 font-family: NarrowNews;
 font-size: large;
-
 }
 
 a:hover {
@@ -23,7 +22,7 @@ color: white;
   color: white;
   margin: 10px;
 }
-
+/*  */
 .navbar:hover {
   background-color: black;
   color: rgb(102,102,102);
